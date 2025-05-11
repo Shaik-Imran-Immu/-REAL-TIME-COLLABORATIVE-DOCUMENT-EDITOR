@@ -1,18 +1,18 @@
 # -REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
 
-COMPANY: CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
-NAME: Shaik Imran
+*NAME*: Shaik Imran
 
-INTERN ID: CT08WF24
+*INTERN ID*: CT08WF24
 
-DOMAIN: Full Stack Web Development
+*DOMAIN*: Full Stack Web Development
 
-DURATION: 8 WEEEKS
+*DURATION*: 8 WEEEKS
 
-MENTOR: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
-DESCRIPTION: [Task - 3]
+*DESCRIPTION*: [Task - 3]
 
 Developed a Real-Time Collaborative Document Editor, enabling multiple users to simultaneously edit and view documents with immediate synchronization across all connected clients. A responsive and dynamic web application that allows real-time collaboration, similar to tools like Google Docs or Notion. The application leverage modern frontend frameworks like React.js, a robust backend built with Node.js and a persistent database MongoDB for storing documents and user data.
 
@@ -72,4 +72,5 @@ Evaluation Criteria:
 * Code quality, documentation, and responsiveness
 
 
+![Image](https://github.com/user-attachments/assets/a4785141-aab2-42d5-a97c-74951b97be58)
 
